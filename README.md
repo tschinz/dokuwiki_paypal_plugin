@@ -32,6 +32,12 @@
 * File     : https://github.com/tschinz/dokuwiki_paypal_plugin/zipball/master
 * Url      : http://zawiki.dyndns.org/doku.php/tschinz:dw_paypal
 
+## Versions
+* **2011-02-17**
+  * Init version 
+* **2012-10-22**
+  * Moved repo to GitHub
+
 ## Syntax
 ```
 {{paypal>encrypted-button-value-from-paypal}}
