@@ -1,7 +1,0 @@
-base paypal
-author Myron Turner
-email zaswiki@gmail.com
-date 2012-10-22
-name paypal Plugin
-desc Dokuwiki Plugin for generating a PayPal donation button
-url http://zawiki.dyndns.org/doku.php/tschinz:dw_paypal 
