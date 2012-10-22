@@ -30,7 +30,6 @@
 ## Download
 * Download to Dokuwiki plugin folder
 * File     : https://github.com/tschinz/dokuwiki_paypal_plugin/zipball/master
-* Url      : http://zawiki.dyndns.org/doku.php/tschinz:dw_paypal
 
 ## Versions
 * **2011-02-17**
@@ -55,7 +54,7 @@ You can get your encrypted button value here: [PayPal Donation Button](https://w
 All documentation for the Paypal Plugin is available online at:
 
   * [Dokuwiki Plugin Page](http://dokuwiki.org/plugin:paypal)
-  * [ZaWiki Plugin Page](http://zawiki.dyndns.org/doku.php/tschinz:dw_paypal)
+  * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_paypal)
   * [Github Project Page](https://github.com/tschinz/dokuwiki_paypal_plugin)
 
 (c) 2011 by Zahno Silvan <zaswiki@gmail.com>
