@@ -1,5 +1,5 @@
 base paypal
-author Myron Turner
+author Zahno Silvan
 email zaswiki@gmail.com
 date 2012-10-22
 name paypal Plugin
