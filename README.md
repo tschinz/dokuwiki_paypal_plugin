@@ -29,7 +29,7 @@
 
 ## Download
 * Download to Dokuwiki plugin folder
-* File     : tschinz:programming:dw:paypal:plugin-paypal.tgz]
+* File     : https://github.com/tschinz/dokuwiki_paypal_plugin/zipball/master
 * Url      : http://zawiki.dyndns.org/doku.php/tschinz:dw_paypal
 
 ## Syntax
