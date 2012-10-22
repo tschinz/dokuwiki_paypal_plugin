@@ -1,9 +1,8 @@
 <?php
 /*
  * DokuWiki paypal plugin
- * Copyright (C) 2011 Zahno Silvan
+ * Author : Zahno Silvan
  * Usage:
- *
  * {{paypal>encrypted_value}} 
  * 
  * This program is free software; you can redistribute it and/or modify
