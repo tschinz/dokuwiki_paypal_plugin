@@ -57,4 +57,4 @@ All documentation for the Paypal Plugin is available online at:
   * [ZaWiki Plugin Page](http://zawiki.dyndns.org/~zas/zawiki/doku.php/tschinz:dw_paypal)
   * [Github Project Page](https://github.com/tschinz/dokuwiki_paypal_plugin)
 
-(c) 2011 by Zahno Silvan <zaswiki@gmail.com>
+2011 by Zahno Silvan <zaswiki@gmail.com>
