@@ -41,7 +41,7 @@ class syntax_plugin_paypal extends DokuWiki_Syntax_Plugin {
             'date'   => '2011-02-17',
             'name'   => 'Paypal Plugin',
             'desc'   => 'Embedding PayPal Donation Button',
-            'url'    => 'http://zawiki.dyndns.org/doku.php/tschinz:dw_paypal',
+            'url'    => 'http://zawiki.zapto.org/doku.php/tschinz:dw_paypal',
         );
     }
 
